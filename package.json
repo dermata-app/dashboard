@@ -1,16 +1,19 @@
 {
-  "name": "ran-boilerplate",
-  "version": "0.8.4",
+  "name": "dashboard-payuto",
+  "version": "0.0.1",
   "main": "server.js",
-  "description": "React . Apollo (GraphQL) . Next.js Toolkit",
+  "description": "Payuto dashboard for manage user",
   "author": "Ilker Guller <me@ilkerguller.com> (http://ilkerguller.com)",
+  "maintainers": [
+    "Willymar Juniarta <willymarj@gmail.com>"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sly777/ran"
+    "url": "https://github.com/dermata-app/dashboard"
   },
   "bugs": {
-    "url": "https://github.com/Sly777/ran/issues"
+    "url": "https://github.com/dermata-app/dashboard/issues"
   },
   "keywords": [
     "next.js",
